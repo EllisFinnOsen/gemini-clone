@@ -1,12 +1,12 @@
 ## About The Project
 
-![project heading image](https://github.com/EllisFinnOsen/gemini-clone/tree/main/src/assets/Header.png?raw=true)
+![project heading image](https://github.com/EllisFinnOsen/gemini-clone/blob/main/src/assets/Header.png?raw=true)
 
-The primary goal of this project was to gain more familiarity with React. Additionally, this project incorporates a function chat input through API Access to Gemini. User prompts are saved under 'Recents' in the side bar. Additionally, the state changes are animated, and display a loading animation while the gemini response is being fetched.
+The primary goal of this project was to gain more familiarity with React. This project incorporates a function chat input through API Access to Gemini. User prompts are saved under 'Recents' in the side bar. Additionally, the state changes are animated, and display a loading animation while the gemini response is being fetched.
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=500&line1=react%2Creact%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3Bcss%2Ccss%2Cffffff%3B)
+![Technology Used](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=500&line1=react%2Creact%2Cffffff%3Bjavascript%2Cjavascript%2Cffffff%3Bcss%2Ccss%2Cffffff%3B)
 
-![project mockup image](https://github.com/EllisFinnOsen/gemini-clone/tree/main/src/assets/Mockup.png?raw=true)
+![project mockup image](https://github.com/EllisFinnOsen/gemini-clone/blob/main/src/assets/Mockup.png?raw=true)
 
 ## Getting Started
 
