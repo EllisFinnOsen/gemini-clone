@@ -1,7 +1,7 @@
 {
   "name": "gemini-clone",
   "private": true,
-  "homepage": "https://ellisfinnosen.github.io/gemini-clone/",
+  "homepage": "https://ellisfinnosen.github.io/gemini-clone/index.html",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
