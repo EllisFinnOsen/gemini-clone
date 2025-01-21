@@ -12,7 +12,7 @@ The primary goal of this project was to gain more familiarity with React. This p
 
 First, Get your Google Gemini API Key from [Gemini Developer API](https://ai.google.dev/gemini-api/docs?gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXIFOIoAIem-TAfAjUHXWAcrz8XG77JvOQfeSgCZTPKZKCsBOyfm1TIaAnNVEALw_wcB)
 
-Open the project and locate 'YOURgemini.js' in src/config/
+Open the project and locate 'gemini.js' in src/config/
 
 locate and paste your API key into the following line near the top:
 
