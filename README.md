@@ -1,6 +1,7 @@
 ## About The Project
 
 ![project heading image](https://github.com/EllisFinnOsen/gemini-clone/blob/main/src/assets/Header.png?raw=true)
+[Preview the app](https://gemini.ellisosen.com/) without actual API Integration.
 
 The primary goal of this project was to gain more familiarity with React. This project incorporates a function chat input through API Access to Gemini. User prompts are saved under 'Recents' in the side bar. Additionally, the state changes are animated, and display a loading animation while the gemini response is being fetched.
 
